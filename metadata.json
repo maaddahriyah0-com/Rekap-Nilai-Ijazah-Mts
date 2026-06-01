@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Nilai Ijazah MTs KHUDNUR",
+  "description": "Aplikasi pengolah nilai ijazah otomatis berdasarkan nilai rapor semester 1-5 dan ujian madrasah (UM) dengan grafik performa, serta ekspor Excel dan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
